@@ -1,0 +1,17 @@
+{
+  "name": "casbin-gui-editor",
+  "version": "0.0.1",
+  "author": {
+    "name": "Yang Luo",
+    "email": "hsluoyz@qq.com"
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casbin/editor.git"
+  },
+  "homepage": "http://casbin.org/editor",
+  "dependencies": {
+    "codemirror": "5.38.0"
+  }
+}
